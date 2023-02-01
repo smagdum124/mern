@@ -1,0 +1,110 @@
+
+.nav-bar{
+  width: 100%;
+  padding: 0px;
+  margin: 0px ;
+  position: relative;
+  right: 40px;
+  top: -81px;
+}
+.nav-ul {
+  list-style: none;
+
+}
+.nav-uls {
+  list-style: none;
+
+}
+.nav-ul li {
+  text-decoration: none;
+   float: left;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+.nav-ul li a{
+padding: 18px;
+display: inline-block;
+color: white;
+font-size: 20px;
+font-weight: bolder;
+text-decoration: none;
+margin-left: 60px;
+}
+.nav-links{
+  background-color: skyblue;
+  width: 103%;
+  padding: 0;
+  margin: 0px;
+}
+.nav-linkss{
+  background-color: skyblue;
+  width: 103%;
+  padding: 0;
+  margin: 0px;
+  height: 60px;
+}
+.nav-linkss a{
+  color: white;
+  font-size: 25px;
+  padding: 16px;
+  text-decoration: none;
+font-weight: bolder;
+float: right;
+
+}
+.footer-dash{
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  align-content: center;
+  width: 100%;
+  background-color: skyblue;
+  height: 46px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+/* signup */
+.input-box{
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+.btn{
+  margin: 25px;
+  padding: 10px;
+  width: 315px;
+  background-color: skyblue;
+  border: 1px solid;
+}
+.txt{
+  color: skyblue;
+  width: 38%;
+  display: block;
+  text-align: center;
+}
+.img-wrapper{
+  border-radius: 10px;
+  height: 61px;
+  position: relative;
+  top: 82px;
+  left: 48px;
+}
+.add-product{
+  margin-left: 35%;
+}
+.text{
+  margin-left: 77px;
+  color: skyblue;
+  font-size: 34px;
+  font-weight: bolder;
+}
+.invalid-name{
+  color: red;
+  margin-top: -20px;
+  display: block;
+  margin-left: 20px;
+}
